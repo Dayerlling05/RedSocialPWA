@@ -1,7 +1,7 @@
 {
     "name": "Red Social",
     "short_name": "RedSocial",
-    "start_url": ".",
+    "start_url": "/RedSocialPWA/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
